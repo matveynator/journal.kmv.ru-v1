@@ -1,6 +1,4 @@
-# journal
-
-## php blog software 
+# php blog software 
 
 ## demo: https://rgp-journal.ru
 
