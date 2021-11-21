@@ -1,6 +1,6 @@
 # Journal (blog) software written from scratch in PHP.
 
-# Similar working demo: https://rgp-journal.ru (old gotik.ru)
+Similar working demo: https://rgp-journal.ru (old gotik.ru)
 
 ## Archive: 
 
