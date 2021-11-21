@@ -15,6 +15,6 @@ Have fun to use it if you want.
 
 ## Screenshots:
 
-<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-05.png" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-01.png" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-02.jpg" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-03.png" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-04.png" width="600">
+<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-05.png" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-02.jpg" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-03.png" width="600"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-04.png" width="600">
 
 
