@@ -1,5 +1,7 @@
 # Journal (blog) software written from scratch in PHP.
 
+<img src="https://repository-images.githubusercontent.com/430343825/8c8b05d1-d24f-4efa-915a-e60c84527864">
+
 Similar working demo: https://rgp-journal.ru (old gotik.ru)
 
 This php software was developed from scratch and was inspired by original Ilya "Justaman" version of gotik.ru 
