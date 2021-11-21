@@ -10,8 +10,4 @@ Similar working demo: https://rgp-journal.ru (old gotik.ru)
 
 ## Screenshots:
 
-<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-01.png" width="600">
-
-<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-02.jpg" width="600">
-
-<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-03.png" width="600">
+<img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-01.png" width="400"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-02.jpg" width="400"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-03.png" width="400"> <img src="https://raw.githubusercontent.com/matveynator/journal/master/screenshot-04.png" width="400">
