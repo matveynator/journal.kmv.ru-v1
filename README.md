@@ -4,7 +4,7 @@ Similar working demo: https://rgp-journal.ru (old gotik.ru)
 
 This php software was developed from scratch and was inspired by original Ilya "Justaman" version of gotik.ru 
 
-Check the 2008 archive.org for: [gotik.ru](https://web.archive.org/web/2008*/gotik.ru) (gothic.ru project), [rgp-journal.ru](https://web.archive.org/web/2008*/rgp-journal.ru), [darkdiary.ru](https://web.archive.org/web/2008*/darkdiary.ru) (similar software), [journal.kmv.ru](https://web.archive.org/web/2008*/journal.kmv.ru), [uranruda.ru](https://web.archive.org/web/2008*/uranruda.ru), etc...
+Check the 2008 archive.org for: [rgp-journal.ru (gotik.ru) ](https://web.archive.org/web/2008*/rgp-journal.ru), [darkdiary.ru](https://web.archive.org/web/2008*/darkdiary.ru) (similar software), [journal.kmv.ru](https://web.archive.org/web/2008*/journal.kmv.ru), [uranruda.ru](https://web.archive.org/web/2008*/uranruda.ru), etc...
 
 Have fun to use it if you want.
 
