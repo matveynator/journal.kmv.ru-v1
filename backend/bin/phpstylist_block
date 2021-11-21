@@ -1,0 +1,40 @@
+#!/bin/bash
+#(C) http://matvey.org.ru
+
+LANG=C
+cmddir=`dirname $0`
+cmdname=`basename $0`
+newtmpdir=`mktemp -d /tmp/$cmdname.XXXXXX`
+mkdir -p "${newtmpdir}" 
+buffer="$newtmpdir/buffer"
+phpcli=`which php`
+
+function cleanup () {
+        rm -rf "$newtmpdir"
+}
+
+trap 'cleanup' EXIT
+trap 'cleanup' SIGTERM
+
+cat > $buffer
+
+php -q $cmddir/_phpstylist.php $buffer \
+    --indent_size 2 \
+    --keep_redundant_lines \
+    --space_after_comma \
+    --space_around_assignment \
+    --align_var_assignment  --space_around_comparison --space_around_arithmetic \
+    --space_around_logical \
+    --space_around_colon_question \
+    --line_before_curly_function \
+    --space_after_if \
+    --else_along_curly \
+    --add_missing_braces \
+    --line_after_break \
+    --space_inside_for \
+    --indent_case \
+    --vertical_array \
+    --align_array_assignment \
+    --space_around_double_arrow \
+    --space_around_concat \
+    --line_before_comment_multi | perl -i -pe 's/\<\?php\ //g' |perl -i -pe 's/\<\?php//g'| perl -i -pe 's/\ \?\>//g'  |perl -i -pe 's/\?\>//g'

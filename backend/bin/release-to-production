@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ~/data/backend/applications/uranruda
+pwd
+echo "CTRL+C yo abort or any key to continue, you MUST be in app folder to continue"
+read
+xcache-disable
+sudo rm -rf production
+svn export dev production
+sudo chmod 777 production -R
+xcache-enable
