@@ -8,6 +8,8 @@ Check out the archive.org for: [journal.kmv.ru](https://web.archive.org/web/2008
 
 Have fun! 
 
+# [Download v1.0 zip](https://github.com/matveynator/journal/archive/refs/tags/v1.0.zip)
+
 ## Archive: 
 
 * https://web.archive.org/web/20070104053129/http://journal.kmv.ru/
